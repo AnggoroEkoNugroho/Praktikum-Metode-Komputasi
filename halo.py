@@ -1,1 +1,6 @@
-print("Program halo.py by anggoro.eko.nugroho@mail.ugm.ac.id")
+print("#/=========================================/")
+print("#/                                         /")
+print("#/             Program halo.py             /")
+print("#/  by anggoro.eko.nugroho@mail.ugm.ac.id  /")
+print("#/                                         /")
+print("#/=========================================/")
