@@ -1,2 +1,2 @@
 # PraktikumMetodeKomputasi5-PythonIntroduction
-# "Membuatprogram halo.py"
+# Membuat program halo.py
